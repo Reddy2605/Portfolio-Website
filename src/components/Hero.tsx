@@ -31,14 +31,14 @@ const Hero: React.FC = () => {
           <a 
             href="/MR_RESUME.pdf" 
             download
-            className="px-6 py-3 rounded-lg bg-blue-600   dark:border-gray-400 hover:bg-blue-700 dark:hover:border-blue-400 text-gray-800 dark:text-white font-medium transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2 inline-flex items-center justify-center"
+            className="px-6 py-3 rounded-lg bg-blue-600 hover:bg-blue-700 text-white font-medium transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 inline-flex items-center justify-center"
           >
             <FileText className="w-5 h-5 mr-2" />
             Download Resume
           </a>
           <a 
             href="#contact" 
-            className="px-6 py-3 rounded-lg bg-blue-600  border-gray-500 dark:border-gray-400 hover:border-blue-600 dark:hover:border-blue-400 text-gray-800 dark:text-white font-medium transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2"
+            className="px-6 py-3 rounded-lg bg-blue-600 hover:bg-blue-700 text-white font-medium transition-all transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 inline-flex items-center justify-center"
           >
             Contact Me
           </a>
